@@ -61,3 +61,6 @@ plt.axis('off')
 
 ### Display the result of Hough transform
 ![output](image-2.png)
+
+## Result:
+Thus the program is executed successfully!
