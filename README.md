@@ -57,7 +57,7 @@ plt.axis('off')
 ![output](image-3.png)
 
 ### Canny Edge detector output
-![output](image-1.png)
+![output](image-4.png)
 
 ### Display the result of Hough transform
 ![output](image-2.png)
